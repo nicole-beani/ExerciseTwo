@@ -1,0 +1,7 @@
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\beani\source\repos\ExerciseTwo\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
